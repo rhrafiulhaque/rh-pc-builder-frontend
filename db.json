@@ -1,0 +1,414 @@
+[{
+    "productName":"Intel Comet Lake Pentium Gold G6405 Processor",
+    "category":"processor",
+    "status":true,
+    "price":"7050",
+    "description":"Max Memory Bandwidth: 41.6 GB/s, Intel Quick Sync Video: Yes, Intel InTru 3D Technology: Yes, Intel Clear Video HD Technology: Yes, Intel Clear Video Technology: Yes, Scalability: 1S Only, PCI Express Revision 3.0, PCI Express Configurations: Up to 1x16, 2x8, 1x8+2x4, Max of PCI Express Lanes: 16, Intel Optane Memory Supported: Yes, Intel Hyper-Threading Technology: Yes, Intel 64: Yes, Instruction Set 64-bit, Instruction Set Extensions: Intel SSE4.1, Intel SSE4.2, Idle States: Yes, Enhanced Intel SpeedStep Technology: Yes, Thermal Monitoring Technologies: Yes, Intel Identity Protection Technology: Yes, Intel AES New Instructions: Yes, Secure Key: Yes, Intel OS Guard: Yes",
+    "brand":"Intel",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/bundle-with-pc-intel-comet-lake-pentium-gold-11628758428.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"Intel Alder Lake Pentium Gold G7400 Socket Processor",
+    "category":"processor",
+    "status":true,
+    "price":"8900",
+    "description":"Intel® Gaussian & Neural Accelerator, Intel® Deep Learning Boost (Intel® DL Boost), Intel® Optane™ Memory Supported, Intel® Speed Shift Technology, Intel® Hyper-Threading Technology",
+    "brand":"Intel",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/intel-comet-lake-pentium-gold-g7400-socket-11649340295.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"AMD Ryzen 5 4600G Zen 2 Processor",
+    "category":"processor",
+    "status":true,
+    "price":"18000",
+    "description":"Brand - AMD, Series - 4000, Model - AMD Ryzen 5 4600G, Processor Category - Ryzen 5, Code-Name - Zen 2, Base Frequency - 3.7GHz, Turbo Frequency Max. - 4.2GHz, Core - 6, Threads - 12, Smart Cache - 11MB, L2 Cache - 3MB, L3 Cache - 8MB, Bus Speed - 3200MHz, TDP - 65W, Memory Type - DDR4, Memory Channels - 2, Processor Graphics - Radeon Graphics, Graphics Base Frequency - 1900 MHz, Sockets Supported - AM4, Others - OS Support: Windows 11 - 64-Bit Edition, Windows 10 - 64-Bit Edition, RHEL x86 64-Bit, Ubuntu x86 64-Bit, Processor Technology for CPU Cores: TSMC 7nm FinFET, Supported Technologies: AMD StoreMI Technology, Warranty - 3 Year (No Warranty for Fan or Cooler), Country of Origin - USA",
+    "brand":"Ryzen",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/amd-ryzen-5-4600g-zen-2-11670657768.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"Afox IH61-MA2-V3 DDR3 Intel LGA1155 Socket Motherboard",
+    "category":"motherboard",
+    "status":true,
+    "price":"5100",
+    "description":"Brand - Afox, Model - Afox IH61-MA2-V3, Chipset Brand - Intel, Chipset - Intel H61, CPU Sockets - LGA1155, Supported CPU - Intel Core  i7, Core i5, Core i3,Pentium, Celeron Processors, Memory Type - DDR3, Memory MHz - 1066/1333/1600MHz, Memory Channel - Dual, Memory Slot - 2, Memory Max. - 16GB, Optane Memory Support - No, Graphics - Integrated Graphics, PCI Express Slot - 1 x PCI Express x16, 1 x PCI Express x1, LAN Chipset - Realtek RTL8105/8106, LAN Speed (Mbps) - 10/100Mbps, Audio Chipset - Realtek 662, Audio Channel - 6, Wi-Fi - No, USB Port - 6 x USB 2.0, VGA Port - 1, DVI Port - No, HDMI Port - 1, DisplayPort (DP) - No, IDE Port - No, SATA Port - 4 x SATA2, BIOS Model - UEFI BIOS, CrossFire Support - No, Sli Support - No, RaidSupport - No, TPM Port - No, RGB Support - No, Form Factor - Micro-ATX, Warranty - 2 Year, Made in/ Assemble - China",
+    "brand":"Afox",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/afox-ih61-ma2-v3-ddr3-intel-lga1155-socket-11668334201.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"Gigabyte GA-J1800M-D3P Built In 2.41GHz DDR3 Celeron Processor+Motherboard (Combo)",
+    "category":"motherboard",
+    "status":true,
+    "price":"16500",
+    "description":"Model - Biostar H310MHP, Chipset - Intel H310, CPU Sockets - LGA1151, Supported CPU - 9th/8th Generation Intel Core, Pentium and Celeron Processors, Memory Type - DDR4, Memory MHz - 1866/ 2133/ 2400/ 2666 / 3200MHz, Memory Channel - Dual Channel, Memory Slot - 2, Memory Max. - 32GB, Optane Memory Support - No, Graphics - Integrated Graphics, PCI Express Slot - 2x PCIe 2.0 x1 Slot, 1x PCIe 3.0 x16 Slot, Storage Interface - 6Gb/s, LAN Chipset - Realtek RTL8111H, LAN Speed (Mbps) - 10/100/1000Mbps, Audio Chipset - Realtek ALC887, Audio Channel - 7.1-Channel, USB Port - 4 x USB3.1 Gen 1, 6 x USB2.0, VGA Port - 1, HDMI Port - 1, SATA Port - 4 x SATA, DirectX Support - 12, Form Factor - Micro-ATX, Supported Operating System - Windows 7 / 10, Special Features - Supports 9th & 8th Generation Intel Core Processor, Intel H310 single chip architecture, Support HDMI 4K resolution, Support GbE LAN, Support USB 3.1 Gen1, Supports HDCP, Others - 1x CPU Fan Connector, 1x System Fan Connector, 1x Front Panel Header, 1x Front Audio Header, 1x Clear CMOS Header, 1x COM Port Header, 3x Audio Jack, Warranty - 3 Year",
+    "brand":"Gigabyte",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/gigabyte-ga-j1800m-d3p-built-in-241ghz-ddr3-11548643979.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"Biostar H310MHP DDR4 Motherboard",
+    "category":"motherboard",
+    "status":true,
+    "price":"8500",
+    "description":"Model - Biostar H310MHP, Chipset - Intel H310, CPU Sockets - LGA1151, Supported CPU - 9th/8th Generation Intel Core, Pentium and Celeron Processors, Memory Type - DDR4, Memory MHz - 1866/ 2133/ 2400/ 2666 / 3200MHz, Memory Channel - Dual Channel, Memory Slot - 2, Memory Max. - 32GB, Optane Memory Support - No, Graphics - Integrated Graphics, PCI Express Slot - 2x PCIe 2.0 x1 Slot, 1x PCIe 3.0 x16 Slot, Storage Interface - 6Gb/s, LAN Chipset - Realtek RTL8111H, LAN Speed (Mbps) - 10/100/1000Mbps, Audio Chipset - Realtek ALC887, Audio Channel - 7.1-Channel, USB Port - 4 x USB3.1 Gen 1, 6 x USB2.0, VGA Port - 1, HDMI Port - 1, SATA Port - 4 x SATA, DirectX Support - 12, Form Factor - Micro-ATX, Supported Operating System - Windows 7 / 10, Special Features - Supports 9th & 8th Generation Intel Core Processor, Intel H310 single chip architecture, Support HDMI 4K resolution, Support GbE LAN, Support USB 3.1 Gen1, Supports HDCP, Others - 1x CPU Fan Connector, 1x System Fan Connector, 1x Front Panel Header, 1x Front Audio Header, 1x Clear CMOS Header, 1x COM Port Header, 3x Audio Jack, Warranty - 3 Year",
+    "brand":"Biostar",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/biostar-h310mhp-ddr4-11668595123.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"Twinmos 4GB DDR3 1333 BUS Desktop RAM",
+    "category":"RAM",
+    "status":true,
+    "price":"1500",
+    "description":"TwinMOS DDR3 UDIMM Supreme is a 240-pin standard design, operating with a voltage of 1.5 volts to achieve both energy and electricity saving and meet environmental protection regulations. Moreover, TwinMOS DDR3 U-DIMM provides various frequency and capacity selections to meet different levels of requirements of consumers in use.",
+    "brand":"Twinmos",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/twinmos-4gb-ddr3-1333-bus-desktop-11686907659.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"Twinmos 4GB DDR4 2400MHz Desktop RAM",
+    "category":"RAM",
+    "status":true,
+    "price":"1650",
+    "description":"Brand - Twinmos, Model - Twinmos 4GB DDR4, Capacity - 4GB, Type - DDR4, Bus Speed(MHz) - 2400MHz, CAS Latency - CL 15.0/16.0, Voltage - 1.20V, Module Type - DIMM, LED Lighting - No, Warranty - Product Lifetime",
+    "brand":"Twinmos",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/twinmos-4gb-ddr4-2400mhz-desktop-11555824495.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"G.Skill Ripjaws V 4GB DDR4 2400MHz Red Heatsink Desktop RAM",
+    "category":"RAM",
+    "status":true,
+    "price":"1740",
+    "description":"As the latest addition to the classic Ripjaws family, Ripjaws V series is the newest DDR4 memory designed for maximum compatibility and cutting-edge performance with the latest Intel® Core™ processors. Built with the finest components, tested under the most rigorous conditions, and offered in five color options, Ripjaws V is the perfect choice for building a new performance system or for a simple memory upgrade.",
+    "brand":"G. SKill",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/gskill-ripjaws-v-4gb-ddr4-2400-bus-red-heatsink-21545711305.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"Adata SU650 120GB 2.5 Inch SATAIII SSD #ASU650SS-120GT-R",
+    "category":"storage device",
+    "status":true,
+    "price":"1500",
+    "description":"The Ultimate SU650 solid state drive implements 3D NAND Flash and a high-speed controller, offering capacities up to 1.92TB. It delivers read/write performance up to 520/450MB/s and greater reliability than 2D NAND SSDs. The SU650 features SLC caching and advanced error correction technologies to ensure optimized data performance and integrity. For those who want to experience a clear PC upgrade, the SU650 is an excellent choice with a great cost-performance ratio.",
+    "brand":"Adata",
+    "ratings":5,
+    "image":"https://lh4.googleusercontent.com/HVuypKy331H5J9lxBA7V75YKy9iZ6TFiHaOFtkjSdup5l10Juu8wyiOmkz9repn2am2FVE6R01a-4D0SHbGpzhKfo22EOBAbgE6UZ4rpA0nVuuish8RIjiB1kynQyjuhFRybQxKP",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"HP S700 120GB M.2 2280 SATAIII SSD #2LU78AA",
+    "category":"storage device",
+    "status":true,
+    "price":"1900",
+    "description":"Brand - HP, Model - HP S700, Type - M.2 SATAIII SSD, Storage (GB/TB) - 120GB SSD, Form Factor - M.2 2280, Interface - SATA III, Flash Type - 3D TLC NAND, Read Speed (Max.) - 555MB/s, Write Speed (Max.) - 470MB/s, Random Read IOPS - Up to 35,000, Random Write IOPS - Up to 75,000, MTBF - 2,000,000 hours, Dimension - 22 x 3.80 x 80mm, Weight - 5 gm, Others - 4KB Random Read: Up to 35,000 IOPS, 4KB Random Write: Up to 75,000 IOPS, Read Latency: 0.046ms, Write Latency: 0.191ms, MTBF: 2,000,000 hours, Max Vibration ResistanceL 3.1 GRMS (2-500 Hz), Max Shock Resistance: 100G / 6 msec, Weight: 5.0gm, Features: High performance, Low power, Increased system responsiveness, High reliability, Small form-factor, Minimum weight, Enhanced ruggedness, Part No - 2LU78AA, Warranty - 3 Year",
+    "brand":"HP",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/hp-s700-120gb-m2-2280-sataiii-ssd-11546419547.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"Toshiba 1TB 7200RPM Desktop Hard disk #DT01ACA100/HDWD110UZSVA/HDWD110AZSTA",
+    "category":"storage device",
+    "status":true,
+    "price":"4500",
+    "description":"EMEA Region, Toshiba Storage Solutions – The 3.5-inch P300 Desktop PC Hard Drive delivers a high performance for professionals. With its dual-stage actuator, you can count on smooth, responsive computing. What’s more, your data and media is secured with a ramp loading design, as well as a shock sensor. The P300 is available in capacities up to 6 TB.",
+    "brand":"Toshiba",
+    "ratings":5,
+    "image":"https://lh6.googleusercontent.com/GNccQoQSLu-avUWlm7YnvdXS0ZahtkM3kVCtZ3_r6rK35uQtB_RiS2mfjBJORfZOS4i5Kzdd-Zdx4zIeQ30LCSS9Npvj95cwR7SxOWyZxD9kt559qS0X7mQfijxCUawTB-TgrOLu",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"Safeway ML-SW-ATX15 500W Silver Power Supply",
+    "category":"power supply unit",
+    "status":true,
+    "price":"1300",
+    "description":"Brand - Safeway, Model - Safeway ML-SW-ATX15, PSU Category - Non Modular, Maximum Power - 500 Watt, Input Voltage - 200 - 240Vac, Input Frequency Range - 50 - 60Hz, Input Current - 4A, Fan Size - 120mm, Over Voltage Protection (OVP) - Yes, Over Power Protection (OPP) - Yes, Over Current Protection (OCP) - No, Over Temperature Protection (OTP) - No, Short Circuit Protection (SCP) - Yes, Under Voltage Protection (UVP) - No, ATX Main Connectors - 1, EPS Connectors - 1, SATA Power Connectors - 3, Floppy Connectors - 1, Hold Up Time - >16ms at 100% load, Form Factor - ATX, Others - Rise Time: >20ms at full load, nominal line, Over-power Protection: 120% to 160%, Specialty - TRUEPOWER: Built-in Industrial grade protection circulity prevents damage resulting from short circuits, power overloads, and over voltage, Warranty - 1 year, Made in/ Assemble - China",
+    "brand":"Safeway",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/safeway-ml-sw-atx15-500w-silver-power-11639914742.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"Xtreme XPS550N 550W Power Supply",
+    "category":"power supply unit",
+    "status":true,
+    "price":"1600",
+    "description":"Brand - Xtreme, Model - Xtreme XPS550N, PSU Category - Non Modular, Maximum Power - 550 Watt, Over Voltage Protection (OVP) - No, Over Power Protection (OPP) - No, Over Current Protection (OCP) - No, Over Temperature Protection (OTP) - No, Short Circuit Protection (SCP) - No, Under Voltage Protection (UVP) - No, Warranty - 2 Year",
+    "brand":"Xtream",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/xtreme-xps550n-550w-power-11647499377.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"Value Top VT-S230B Non Modular Real 230W ATX Black Power Supply",
+    "category":"power supply unit",
+    "status":true,
+    "price":"1800",
+    "description":"Brand - Value Top, Model - Value Top VT-S230B, PSU Category - Non Modular, Type - ATX, Maximum Power - 230W, Input AC - 100V-240 VAC, Input Voltage - 100V-240V, Fan Size - 120mm, Lighting Effect - No, Lighting Type - No, Efficiency - Unmentioned, 80 Plus/Efficiency Rating - Unmentioned, Over Voltage Protection (OVP) - Unmentioned, Over Power Protection (OPP) - Unmentioned, Over Temperature Protection (OTP) - Unmentioned, Short Circuit Protection (SCP) - Unmentioned, Under Voltage Protection (UVP) - Unmentioned, SATA Power Connectors - 3, Cable Type - 1.2m UK power cord, Form Factor - ATX, Color - Black, Others - 1 x IDE connector, 1.2m UK power cord, Warranty - 2 Year, Country of Origin - China, Made in/ Assemble - China",
+    "brand":"Value Top",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/value-top-vt-s230b-non-modular-real-230w-atx-11688812974.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"Xiaomi Redmi 21.45 Inch FHD VA Black Professional Monitor",
+    "category":"monitor",
+    "status":true,
+    "price":"8960",
+    "description":"178 Degree wide viewing angle, covering 72% NTSC color gamut, 3000:1 contrast ratio, TUV low blue-ray certification. Supports VESA wall mount, global DC dimming, world class energy efficiency. It is equipped with an HDMI and VGA interface, adjustable brackets, a rated power of 24W at most. Flicker-free monitor.",
+    "brand":"Xiaomi",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/xiaomi-redmi-2145-inch-fhd-ips-hdmi-vga-monitor-11661423378.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"Lenovo D19-10 18.5 Inch HD HDMI VGA Monitor",
+    "category":"monitor",
+    "status":true,
+    "price":"9110",
+    "description":"ASN, View Area: 409.8 x 230.4mm, Panel Type: TN, EU Energy Rating: A+, Power Requirement: 100 - 240 VAC, 50-60Hz, Antiglare: Yes, Color Coverage: 72% NTSC, Color Depth: 8-bit, Color Support: 16.7 Million, Power Adapter: Integrated, Stand: Tilt Stand, Side Bezel Width: 18.52 mm, ENERGY STAR: Yes, Eye Comfort: Low Blue Light, On Screen Display: OSD, 8 Languages, Pixel Pitch: 0.30x0.30 mm",
+    "brand":"Lenovo",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/lenovo-d19-10-185-inch-hd-monitor-hdmi-vga-11594791819.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+},
+{
+    "productName":"LG 20MK400H-B 20 Inch HD (1366x768) TN LED Monitor (VGA, HDMI)",
+    "category":"monitor",
+    "status":true,
+    "price":"9400",
+    "description":"Background type: TN, Color gamut (CIE1931): 72% NTSC, Color depth (Color number): 16.7M color, Surface treatment: Anti-dazzling, 3H, HDCP: HDCP1.4, Flicker Safe: Yes, Headphone output: 1, Input: 100-240Vac, 50/60Hz, Normal turn on (typical EPA): 13W",
+    "brand":"LG",
+    "ratings":5,
+    "image":"https://www.cloud.ryanscomputers.com/cdn/products/medium/lg-20mk400h-b-20-inch-amd-freesync-full-hd-tn-11556360837.webp",
+    "reviews":[{
+        "reviewerName":"Rashed",
+        "review":"Good"
+    },
+    {
+        "reviewerName":"Maisha",
+        "review":"Very Good"
+    },
+    {
+        "reviewerName":"Rafsan",
+        "review":"Temon Valo na"
+    }
+]
+}]

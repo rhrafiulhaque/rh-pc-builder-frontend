@@ -1,38 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# RH PC Builder Website
 
-## Getting Started
+Welcome to the PC Builder website repository! This project aims to provide users with a seamless experience in building their custom PCs based on their specific needs and preferences.
 
-First, run the development server:
+### Live link:- https://rh-pc-builder.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+### Github Frontend Code Link -https://github.com/rhrafiulhaque/rh-pc-builder-frontend
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Github Backend Code Link -https://github.com/rhrafiulhaque/rh-pc-builder-backend
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Welcome to the PC Builder website repository! This project aims to provide users with a seamless experience in building their custom PCs based on their specific needs and preferences.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Features
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Easy-to-Use Interface: Our website offers an intuitive and user-friendly interface, making it simple for users to assemble their dream PCs effortlessly.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- Vast Component Library: Explore a wide selection of high-quality components, including CPUs, GPUs, RAM, storage, and more, from top manufacturers.
 
-## Learn More
+- Real-time Compatibility Checks: Our system performs real-time compatibility checks to ensure that selected components work harmoniously together.
 
-To learn more about Next.js, take a look at the following resources:
+- Save and Share Builds: Users can save their PC builds for future reference and share them with friends or the community.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# How to Use
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- Creating a Build: Start by selecting "Build a PC" from the homepage. Choose your preferred components by browsing through the categories and adding them to your build.
 
-## Deploy on Vercel
+- Compatibility Check: Our system will automatically check the compatibility of selected components, highlighting any issues that might arise.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Customization: Tweak your build to perfection with the ability to modify quantities, brands, and specific models.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Save and Share: Save your build for future edits or share it with others to seek suggestions or feedback.
